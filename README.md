@@ -77,18 +77,6 @@ Or use **Live Server** in VS Code for the best experience.
 
 ---
 
-## 🧪 Test Cases
-
-| Scenario | Expected Result |
-|----------|----------------|
-| Toyota Innova Crysta · ₹20,00,000 · Diesel · Tamil Nadu | Road Tax 10% = ₹2,00,000 |
-| Tata Nexon EV · ₹18,00,000 · Electric · Delhi | Road Tax 0% · 🌿 badge shown |
-| Loan ₹15,00,000 · 9.5% p.a. · 60 months | EMI ≈ ₹31,548 |
-| Switch state Tamil Nadu → Karnataka | Road tax flashes · updates 10% → 14% |
-| Down payment below 10% of on-road price | ⚠️ RBI guideline warning appears |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -104,5 +92,3 @@ README.md
 [github.com/nrashwin04](https://github.com/nrashwin04)
 
 ---
-
-*Built as part of an automotive tools portfolio — designed for dealership and customer use in the Indian market.*
